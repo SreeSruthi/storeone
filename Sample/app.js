@@ -20,6 +20,7 @@ MongoClient.connect(url, function (err, db) {
     	    console.log("one document inserted!");
     	    
     	//======================================================================================== 
+    	    //......................................................................................
      //console.log("--------------------" + dbo)*/
      //var myobj = 
     	    //{ name: 'Sree', address: 'Hemlock Street 16'};
